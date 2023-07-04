@@ -1,0 +1,3 @@
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\win-x64\presamp2dvtb.pdb
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\win-x64\presamp2dvtb.dll.config
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\win-x64\presamp2dvtb.exe

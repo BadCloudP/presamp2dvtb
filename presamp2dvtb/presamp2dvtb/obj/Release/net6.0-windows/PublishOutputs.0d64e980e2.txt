@@ -1,0 +1,5 @@
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\presamp2dvtb.exe
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\presamp2dvtb.dll
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\presamp2dvtb.deps.json
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\presamp2dvtb.runtimeconfig.json
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Release\net6.0-windows\publish\presamp2dvtb.pdb

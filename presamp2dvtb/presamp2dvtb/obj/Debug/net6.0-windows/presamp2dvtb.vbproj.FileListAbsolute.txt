@@ -1,0 +1,17 @@
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.vbproj.AssemblyReference.cache
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.frmmain.resources
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.vbproj.GenerateResource.cache
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.AssemblyInfoInputs.cache
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.AssemblyInfo.vb
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.vbproj.CoreCompileInputs.cache
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Debug\net6.0-windows\presamp2dvtb.exe
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Debug\net6.0-windows\presamp2dvtb.deps.json
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Debug\net6.0-windows\presamp2dvtb.runtimeconfig.json
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Debug\net6.0-windows\presamp2dvtb.dll
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\bin\Debug\net6.0-windows\presamp2dvtb.pdb
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.dll
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\refint\presamp2dvtb.dll
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.pdb
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\presamp2dvtb.genruntimeconfig.cache
+C:\Users\tom\Documents\Vstudio\presamp2dvtb\presamp2dvtb\obj\Debug\net6.0-windows\ref\presamp2dvtb.dll
