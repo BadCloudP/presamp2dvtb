@@ -13,6 +13,7 @@
 ![0}0L22V8QZ0~% V5)(QBBEY](https://github.com/BadCloudP/presamp2dvtb/assets/138548416/d266cfac-6ee8-4f93-a9d3-c72f4e0a8c7f)
 
 局限：
+
 1.只能根据交叉设定来大概分辨清浊辅音，导出后需要手动处理
 
 2.目前只能读取通用设定，目前并不能支持presamp的特殊设定
