@@ -6,7 +6,7 @@
 
 2.点击“Change”转换文件
 
-![0}0L22V8QZ0~% V5)(QBBEY](https://github.com/BadCloudP/presamp2dvtb/assets/138548416/d27ce53f-b771-4110-9c51-a4e82bdc1916)
+![WCV70}AW8 4B`~4SRHQUUW2](https://github.com/BadCloudP/presamp2dvtb/assets/138548416/782f351c-a9f3-4dc4-8532-bcc2a6d6ba70)
 
 3.点击“Output”导出文件
 
